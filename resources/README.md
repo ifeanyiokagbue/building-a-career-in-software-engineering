@@ -165,4 +165,4 @@ If you have suggestions for better resources or updates:
 ---
 
 📘 **Want the full context, stories, and guidance?**  
-Get the book: *Building a Career in Software Engineering*
+Get the book: [*Building a Career in Software Engineering*](https://okagbue.gumroad.com/l/software-engineer-career-guide)
