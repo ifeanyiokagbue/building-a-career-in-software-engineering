@@ -1,24 +1,41 @@
-# 📚 Companion Resources for *Building a Career in Software Engineering*
+## 📚 Companion Resources for *Building a Career in Software Engineering*
 
-This folder contains **carefully curated learning resources** that complement the book  
+This folder contains the **same curated resources referenced at the end of each chapter** in the book  
 **_Building a Career in Software Engineering_** by Ifeanyi Nnamdi-Okagbue.
 
-These resources are meant to:
-- Reinforce key ideas from each chapter
-- Provide optional deeper learning paths
-- Encourage practical, hands-on growth
+At the end of **every chapter in the book**, readers are provided with carefully selected resources to help them:
 
-⚠️ **Important:**  
-These materials **do not replace the book**. Context, guidance, sequencing, and real-world insights are provided in the chapters themselves.
+- Reinforce the key concepts covered in that chapter  
+- Go deeper into specific topics, tools, or skills  
+- Apply what they’ve learned through practice and exploration  
+
+This repository brings those chapter-by-chapter resources together in one place for easy reference.
+
+---
+
+### ⚠️ Important
+
+These resources are **supplements**, not substitutes.
+
+They are designed to **consolidate and extend what you’ve already read in the book**.  
+The structure, context, explanations, and real-world guidance live in the chapters themselves.
+
+If you jump straight into the resources without reading the chapter, you’ll miss the “why” behind them.
 
 ---
 
 ## Chapter 1: Laying the Foundation – Trainee to Junior Engineer
 
-**Chapter focus:**  
-This chapter emphasizes the importance of strong fundamentals—programming basics, problem-solving, debugging, version control, and core computer science concepts. It sets the tone for long-term growth in software engineering.
+### Chapter focus
 
----
+This chapter focuses on building a strong foundation for a career in software engineering. It covers:
+
+- Core programming fundamentals  
+- Problem-solving and debugging skills  
+- Version control and collaborative development  
+- Essential computer science concepts  
+
+The resources below are the **exact materials referenced at the end of Chapter 1**, curated to help you strengthen these fundamentals and put them into practice.
 
 ### 🧠 Foundational Programming Skills
 
